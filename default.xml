@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>                                           
+<manifest>                                                                       
+    <remote                                                                      
+        name="MyRepoTool"                                                            
+        fetch="https://github.com/geappliances"/>                                          
+                                                                                 
+    <project                                                                     
+        path="sprout/ui"                                                              
+        name="rerigeration.sprout-ui"
+        remote="MyRepoTool"/>                                                  
+</manifest> 
