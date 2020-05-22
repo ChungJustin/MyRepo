@@ -6,6 +6,7 @@
                                                                                  
     <project                                                                     
         path="sprout/ui"                                                              
-        name="rerigeration.sprout-ui"
+        name="refrigeration.sprout-ui"
+        revision="develop"
         remote="MyRepoTool"/>                                                  
 </manifest> 
